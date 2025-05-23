@@ -1,4 +1,4 @@
-# egzamin_1
+# SPA_Project
 
 ## Project setup
 ```
